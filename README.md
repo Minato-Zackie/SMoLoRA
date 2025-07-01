@@ -1,6 +1,6 @@
 # SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning
 This is the official code implementation of "SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning".
-
+![main_pic](imgs/fig_main.png) 
 
 
 ## Benchmark install
