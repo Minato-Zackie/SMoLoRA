@@ -13,3 +13,6 @@ All datasets used in the benchmark are publicly available. You can download the 
 
 ## Training and Evaluation
 The training and evaluation code for SMoLoRA will be released soon.
+
+## Acknowledgement
+Our project is based on [LLaVA](https://github.com/haotian-liu/LLaVA) and [CoIN](https://github.com/zackschen/CoIN). We sincerely thank them for their outstanding contributions.
