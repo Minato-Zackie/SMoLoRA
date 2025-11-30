@@ -33,7 +33,7 @@ Please download the pretrained language model [vicuna-7b-v1.5](https://huggingfa
 ### Training and Eval
 Run all training and evaluation procedures:
 ```
-bash bash ./scripts/SMoLoRA/Train_Eval/Train_all.sh
+bash ./scripts/SMoLoRA/Train_Eval/Train_all.sh
 ```
 Evaluate the MIF metric:
 ```
